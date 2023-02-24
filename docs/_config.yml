@@ -21,12 +21,12 @@
 title: Sandkind
 email: becky@sandkind.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Placeholder description
-  needs updating
-baseurl: "website" # the subpath of your site, e.g. /blog
+  Elit ut aliquam purus sit amet luctus venenatis lectus.
+  Pharetra vel turpis nunc eget lorem.
+baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: becky_thorn
+github_username:  becky-sandkind
 
 # Build settings
 theme: minima
