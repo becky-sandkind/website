@@ -1,22 +1,15 @@
 ---
-title: "Welcome to Sandkind"
+title: "Hello"
 layout: page
 ---
-
-## Hey, I'm Becky
+## I'm Becky
 
 ### Experienced Consultant
 
-Becky is an experienced consultant helping teams to redesign their ways of working for faster flow within their evolving ecosystem of people and tech.
+I am an experienced consultant helping teams to align and evolve their organisations so together they can create impact at scale in an ever changing world.
 
-Sandkind is my way to create purposeful impact.
+After 20 years of working in 34 teams in mostly large organisations, my work is also evolving, it's time for me to be more nimble.
 
-After 20 years of working in 34 teams in mostly large organisations, it’s time to be more nimble.
+Sandkind is simply my Limited company that enables me to choose my clients and still work alongside thought-leaders and deep practitioners.
 
-Purpose: to enable emerging digital and data leaders with the knowledge and ways of thinking:
-
-* to bring about the change they hope is possible;
-* to evolve their organisations to meet the many challenges of today’s world; and
-* to work in a sustainable way based on an understanding of our shared humanity.
-
-Becky takes her years of experience combined with leading knowledge from agile, software, DevOps, data and organisational design communities and makes it accessible, relatable and usable for leaders and teams.
+I combine experience with leading knowledge from agile, software, DevOps, data and organisational design communities, to create evidenced-based learning and advice.
