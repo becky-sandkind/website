@@ -2,7 +2,7 @@
 title: "Connect"
 layout: page
 ---
-[LinkedIn](https://www.linkedin.com/in/becky-thorn-sietsma-7610a82/)
+[LinkedIn](https://www.linkedin.com/in/becky-thorn-sietsma/)
 
 [Conflux](https://confluxhq.com/about)
 

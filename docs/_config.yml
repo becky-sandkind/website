@@ -22,11 +22,11 @@ title: Sandkind
 email: becky@sandkind.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Sandkind Limited is a limited company registered in England and Wales. Registered number: 14614766. Registered office:  3rd Floor, 86-90 Paul St, London EC2A 4NE, United Kingdom
-baseurl: "/website" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: becky_thorn
 # github_username:  becky-sandkind
-linkedin_username: becky-thorn-sietsma-7610a82
+linkedin_username: becky-thorn-sietsma
 mastodon:
   - username: beckytsietsma
     instance: mas.to

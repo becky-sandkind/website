@@ -21,4 +21,4 @@ I have learnt that:
 - data scientists and other specialists, given a voice, can find ways to collaborate and work asynchronously with other teams
 - psychological safety is not being nice, it’s obligation to dissent
   
-More on [LinkedIn](https://www.linkedin.com/in/becky-thorn-sietsma-7610a82/)
+More on [LinkedIn](https://www.linkedin.com/in/becky-thorn-sietsma/)
